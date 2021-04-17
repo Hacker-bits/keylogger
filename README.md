@@ -4,7 +4,7 @@ Pynput
 
 Installation guide:-
 For Windows
->> _ pip install pynput _
+> pip install pynput 
 
 
 About the library :
@@ -14,4 +14,5 @@ A feauture of this library is it ability to track the movements of the mouse and
 
 For more info and code examples refer:-
 https://pypi.org/project/pynput/
+
 https://pynput.readthedocs.io/en/latest/
